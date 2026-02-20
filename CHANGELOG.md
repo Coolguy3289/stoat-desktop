@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/Coolguy3289/stoat-desktop/compare/v1.3.0...v1.3.1) (2026-02-20)
+
+
+### Bug Fixes
+
+* Update README.md ([b4abe66](https://github.com/Coolguy3289/stoat-desktop/commit/b4abe66c747734af6c1b69297dd0653581cc5ff2))
+
 ## [1.3.0](https://github.com/stoatchat/for-desktop/compare/v1.2.0...v1.3.0) (2026-02-18)
 
 
