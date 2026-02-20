@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/Coolguy3289/stoat-desktop/compare/v1.3.1...v1.3.2) (2026-02-20)
+
+
+### Bug Fixes
+
+* "chore: Update README.md" ([f47faef](https://github.com/Coolguy3289/stoat-desktop/commit/f47faef98694df62eb35ddfd47ebb0564a73128b))
+
 ## [1.3.1](https://github.com/Coolguy3289/stoat-desktop/compare/v1.3.0...v1.3.1) (2026-02-20)
 
 
